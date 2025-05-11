@@ -19,6 +19,7 @@ class _AttendanceHistoryPageState extends State<AttendanceHistoryPage> {
     {"date": "07", "day": "TUE", "color": Colors.orange},
     {"date": "08", "day": "TUE", "color": Colors.red},
     {"date": "09", "day": "TUE", "color": Colors.green},
+
   ];
 
   @override
